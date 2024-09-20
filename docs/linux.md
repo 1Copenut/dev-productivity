@@ -1,4 +1,9 @@
 # Linux
+I'm mostly using the three distros listed below. They're my preferred server, hacking, and daily driver respectively.
+
+## Debian
+
+## Kali
 
 ## Ubuntu
 
