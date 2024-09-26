@@ -20,3 +20,8 @@ Sometimes we can't eliminate dependency vulnerabilities with `npm fix [--force]`
   }
 }
 ```
+
+### Workspaces
+https://docs.npmjs.com/cli/v10/using-npm/workspaces
+
+> Workspaces is a generic term that refers to the set of features in the npm cli that provides support for managing multiple packages from your local file system from within a singular top-level, root package.
